@@ -33,7 +33,7 @@ apt-get install zip -y > /dev/null 2>&1
 
 wget https://raw.githubusercontent.com/Lordsniffer22/tosbiteng/main/create_user.sh -O gerarusuario.sh; chmod +x gerarusuario.sh > /dev/null
 
-wget https://raw.githubusercontent.com/Lordsniffer22/tosbiteng/main/create_user.sh -O bot.zip && unzip bot.zip > /dev/null
+https://raw.githubusercontent.com/Lordsniffer22/tosbiteng/main/admysshbot.zip -O bot.zip && unzip bot.zip > /dev/null
 
 rm dadosBot.ini > /dev/null
 
